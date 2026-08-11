@@ -1,0 +1,12 @@
+{
+  "name": "FaceFind for Google Drive",
+  "description": "Automatically find and download your photos from shared Google Drive folders using AI face matching.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "Google OAuth Integration",
+    "AI Face Recognition",
+    "Google Drive API"
+  ]
+}
